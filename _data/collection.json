@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Audiencia 1_disco_2 JXV " ] },
+    "summary": { "en": [ "Audiencia 1_disco_2 de la colección Juicios Por la Verdad.\r\nMemoria Abierta" ] },
+    "items": [
+    ]
+}
