@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Audiencia 1_disco_2
 manifest_name: audiencia-1_disco_2
 permalink: audiencia-1_disco_2
